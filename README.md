@@ -63,8 +63,8 @@ As a lifelong learner, I'm currently learning about artificial intelligence and 
 
 Thank you so much for visiting my profile! Feel free to connect with me below! 💜
 
-- LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/vrielle-guevarra/) |
-- Email: [Email Me](vrielleguevarra@gmail.com)
+- [Connect on LinkedIn](https://www.linkedin.com/in/vrielle-guevarra/)
+- [Email Me](vrielleguevarra@gmail.com)
 
 <p align="center">
   <img 
