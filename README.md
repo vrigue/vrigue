@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 -->
 
 # 💫 Vrielle Guevarra
-I'm an aspiring software developer with hands-on experience in full-stack software development, web development, and front-end development. I'm passionate about building impactful, user-centric software while empowering the next generation of computer scientists. As a lifelong learner, I'm currently learning about artificial intelligence and machine learning as a Break Through Tech AI/ML Fellow, strengthening my skills in analyzing datasets, deploying ML models, and building AI-powered applications.
+I'm an aspiring software developer with hands-on experience in full-stack software development, web development, and front-end development. I'm passionate about building impactful, user-centric software while empowering the next generation of computer scientists. 
+
+As a lifelong learner, I'm currently learning about artificial intelligence and machine learning as a Break Through Tech AI/ML Fellow, strengthening my skills in analyzing datasets, deploying ML models, and building AI-powered applications.
 
 - 🎓 Computer Science + Science and Public Policy at Barnard College of Columbia University
 - ✨ Interests: Full-Stack Development, Machine Learning, UI/UX Design, Web Development
