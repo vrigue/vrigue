@@ -1,31 +1,16 @@
-<!--
-**vrigue/vrigue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # ✨ Vrielle Guevarra | Software Developer
 I'm an aspiring software developer with hands-on experience in full-stack software development and web development. I'm passionate about building impactful, user-centric software while empowering the next generation of computer scientists. 
 
 As a lifelong learner, I'm currently learning about artificial intelligence and machine learning as a Break Through Tech AI/ML Fellow, strengthening my skills in analyzing datasets, deploying ML models, and building AI-powered applications.
 
-# 💫 About Me
+## 💫 About Me
 
 - 🎓 Computer Science + Science and Public Policy at Barnard College of Columbia University
 - 💻 Interests: Full-Stack Development, Machine Learning, UI/UX Design, Web Development
 - 🌱 Currently Learning: Machine Learning, End-to-End ML Solutions, Data Structures & Algorithms
 - 📫 Reach Me: [Connect on LinkedIn](https://www.linkedin.com/in/vrielle-guevarra/) | [Email Me](vrielleguevarra@gmail.com)
 
-# 🛠️ Tech Stack:
+## 🛠️ Tech Stack:
 
 ### 💻 Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -69,5 +54,16 @@ As a lifelong learner, I'm currently learning about artificial intelligence and 
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
+
+## 📁 Featured Projects
+
+## 📊 GitHub Highlights
+
+## 📫 Connect with Me!
+
+Thank you so much for visiting my profile! Feel free to connect with me below! 💜
+
+- LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/vrielle-guevarra/) |
+- Email: [Email Me](vrielleguevarra@gmail.com)
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/ac5a0a51-a77d-4e15-a38e-10bb986feeaf" />
