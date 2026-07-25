@@ -63,6 +63,8 @@ As a lifelong learner, I'm currently learning about artificial intelligence and 
 | **Mortgage Apple Cakes** | Transformed the company’s web and mobile user interface to improve user experience and accessibility. Deployed a user-friendly e-commerce platform to increase online sales by 50%. Engineered a new SEO strategy to increase visibility and site traffic. | `JavaScript`, `HTML/CSS`, `UI/UX Design` |
 
 ## 📊 GitHub Highlights
+- Contributions to 20+ repositories across academic and personal projects
+- Hands-on experience with **version control**, **code reviews**, and **collaborative development**
 
 <p align="center">
   Thank you so much for visiting my profile! 💜
