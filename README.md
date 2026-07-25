@@ -66,4 +66,10 @@ Thank you so much for visiting my profile! Feel free to connect with me below! ð
 - LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/vrielle-guevarra/) |
 - Email: [Email Me](vrielleguevarra@gmail.com)
 
-<img width="500" height="500" alt="image of purple work desk with laptop" src="https://github.com/user-attachments/assets/ac5a0a51-a77d-4e15-a38e-10bb986feeaf" style="display: block; margin: 0 auto;"/>
+<p align="center">
+  <img 
+    width="500" height="500" 
+    alt="image of purple work desk with laptop" 
+    src="https://github.com/user-attachments/assets/ac5a0a51-a77d-4e15-a38e-10bb986feeaf" 
+    style="display: block; margin: 0 auto;"/>
+</p>
