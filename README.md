@@ -58,9 +58,9 @@ As a lifelong learner, I'm currently learning about artificial intelligence and 
 ## 📁 Featured Projects
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **Bergen Reef Accessing Data (BRAD)** | Built a full-stack web application that integrates with Apex Fusion to manage and visualize coral reef data for 10+ researchers. Developed a cron job to gather data on coral reef tank metrics via Apex Fusion. Implemented CRUD routes and various metric filters to add custom functionality on the data table display. | `React`, `Next.js`, `TailwindCSS`, `D3`, `AG Grid`, `Vercel`, `TypeScript`, `Python`, `Raspberry Pi` |
-| **🍪 SweetV** | Developed a full-stack e-commerce platform to serve as an initial online storefront for a cookie bakery, managing orders and menu items. | `Express`, `EJS`, `JavaScript`, `SQL` |
-| **🌸 Project Lotus** | Created a wellness and productivity website to provide curated self-help resources. *Awarded FemmeHacks 2024 Best UI/UX.* | `JavaScript`, `HTML/CSS`, `UI/UX Design` |
+| **Bergen Reef Accessing Data (BRAD)** | Built a full-stack web application that integrates with Apex Fusion to manage and visualize coral reef data for 10+ researchers. Developed a cron job to gather data on coral reef tank metrics. Implemented CRUD routes and metric filters to add custom functionalities to the data table. | `React`, `Next.js`, `TailwindCSS`, `D3`, `AG Grid`, `Vercel`, `TypeScript`, `Python`, `Raspberry Pi` |
+| **SweetV** | Developed a full-stack e-commerce platform to serve as an initial online storefront for a cookie bakery, managing orders and menu items. | `Express`, `EJS`, `JavaScript`, `SQL` |
+| **Project Lotus** | Created a wellness and productivity website to provide curated self-help resources. *Awarded FemmeHacks 2024 Best UI/UX.* | `JavaScript`, `HTML/CSS`, `UI/UX Design` |
 
 ## 📊 GitHub Highlights
 
