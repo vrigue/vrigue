@@ -56,15 +56,23 @@ As a lifelong learner, I'm currently learning about artificial intelligence and 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
 
 ## 📁 Featured Projects
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **🐠 Bergen Reef Accessing Data (BRAD)** | Built a full-stack web application integrating with Apex Fusion to manage and visualize coral reef data for 10+ researchers. Developed a cron job for hourly data collection. | `React`, `Next.js`, `TypeScript`, `D3`, `Vercel`, `Python`, `Raspberry Pi` |
+| **🦝 Trash Panda** | Launched a web-based tamagotchi-inspired game to encourage sustainability and environmental awareness. | `Phaser`, `TypeScript`, `HTML/CSS` |
+| **🌸 Project Lotus** | Created a wellness and productivity website providing curated self-help resources. *Awarded FemmeHacks 2024 Best UI/UX.* | `JavaScript`, `HTML/CSS`, `UI/UX Design` |
+| **🍪 SweetV** | Developed a full-stack e-commerce platform to serve as an initial online storefront for a cookie bakery, managing orders and menu items. | `Express`, `EJS`, `JavaScript`, `SQL` |
 
 ## 📊 GitHub Highlights
 
 ## 📫 Connect with Me!
 
-Thank you so much for visiting my profile! Feel free to connect with me below! 💜
+<p align="center">
+  Thank you so much for visiting my profile! Feel free to connect with me below! 💜
+</p>
 
-- [Connect on LinkedIn](https://www.linkedin.com/in/vrielle-guevarra/)
-- [Email Me](vrielleguevarra@gmail.com)
+- LinkedIn: (https://www.linkedin.com/in/vrielle-guevarra/)
+- Email: (vrielleguevarra@gmail.com)
 
 <p align="center">
   <img 
