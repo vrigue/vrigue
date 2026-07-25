@@ -66,7 +66,7 @@ As a lifelong learner, I'm currently learning about artificial intelligence and 
 - Contributions to 20+ repositories across academic and personal projects
 - Hands-on experience with **version control**, **code reviews**, and **collaborative development**
 
-<p align="center" padding-top=20px>
+<p align="center" style="padding-top: 20px;">
   Thank you so much for visiting my profile! 💜
 </p>
 
