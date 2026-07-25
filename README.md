@@ -58,21 +58,18 @@ As a lifelong learner, I'm currently learning about artificial intelligence and 
 ## 📁 Featured Projects
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **🐠 Bergen Reef Accessing Data (BRAD)** | Built a full-stack web application integrating with Apex Fusion to manage and visualize coral reef data for 10+ researchers. Developed a cron job for hourly data collection. | `React`, `Next.js`, `TypeScript`, `D3`, `Vercel`, `Python`, `Raspberry Pi` |
-| **🦝 Trash Panda** | Launched a web-based tamagotchi-inspired game to encourage sustainability and environmental awareness. | `Phaser`, `TypeScript`, `HTML/CSS` |
-| **🌸 Project Lotus** | Created a wellness and productivity website providing curated self-help resources. *Awarded FemmeHacks 2024 Best UI/UX.* | `JavaScript`, `HTML/CSS`, `UI/UX Design` |
+| **Bergen Reef Accessing Data (BRAD)** | Built a full-stack web application that integrates with Apex Fusion to manage and visualize coral reef data for 10+ researchers. Developed a cron job to gather data on coral reef tank metrics via Apex Fusion. Implemented CRUD routes and various metric filters to add custom functionality on the data table display. | `React`, `Next.js`, `TailwindCSS`, `D3`, `AG Grid`, `Vercel`, `TypeScript`, `Python`, `Raspberry Pi` |
 | **🍪 SweetV** | Developed a full-stack e-commerce platform to serve as an initial online storefront for a cookie bakery, managing orders and menu items. | `Express`, `EJS`, `JavaScript`, `SQL` |
+| **🌸 Project Lotus** | Created a wellness and productivity website to provide curated self-help resources. *Awarded FemmeHacks 2024 Best UI/UX.* | `JavaScript`, `HTML/CSS`, `UI/UX Design` |
 
 ## 📊 GitHub Highlights
-
-## 📫 Connect with Me!
 
 <p align="center">
   Thank you so much for visiting my profile! Feel free to connect with me below! 💜
 </p>
 
-- LinkedIn: (https://www.linkedin.com/in/vrielle-guevarra/)
-- Email: (vrielleguevarra@gmail.com)
+- [Connect on LinkedIn](https://www.linkedin.com/in/vrielle-guevarra/)
+- [Email Me](vrielleguevarra@gmail.com)
 
 <p align="center">
   <img 
