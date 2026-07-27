@@ -59,8 +59,8 @@ As a lifelong learner, I'm currently learning about artificial intelligence and 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **Bergen Reef Accessing Data (BRAD)** | Built a full-stack web application that integrates with Apex Fusion to manage and visualize coral reef data for 10+ researchers. Developed a cron job to gather data on coral reef tank metrics. Implemented CRUD routes and metric filters to add custom functionalities to the data table. | `React`, `Next.js`, `TailwindCSS`, `D3`, `AG Grid`, `Vercel`, `TypeScript`, `Python`, `Raspberry Pi` |
+| **Mortgage Apple Cakes** | Transformed the company’s web and mobile user interface to improve user experience and accessibility. Deployed a user-friendly e-commerce platform to increase online sales by 50%. Engineered a new SEO strategy to increase visibility and site traffic. | `UI/UX Design`, `JavaScript`, `HTML/CSS` |
 | **SweetV** | Developed a full-stack e-commerce platform to serve as an initial online storefront for a cookie bakery. Designed a user interface and database to showcase menu items, manage orders, and display information | `Express`, `EJS`, `JavaScript`, `SQL` |
-| **Mortgage Apple Cakes** | Transformed the company’s web and mobile user interface to improve user experience and accessibility. Deployed a user-friendly e-commerce platform to increase online sales by 50%. Engineered a new SEO strategy to increase visibility and site traffic. | `JavaScript`, `HTML/CSS`, `UI/UX Design` |
 
 ## 📊 GitHub Highlights
 - Contributions to 20+ repositories across academic and personal projects
