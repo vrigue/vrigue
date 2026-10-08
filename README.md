@@ -6,7 +6,7 @@ As a lifelong learner, I'm currently learning about artificial intelligence and 
 ## 💫 About Me
 
 - 🎓 Computer Science + Science and Public Policy at Barnard College of Columbia University
-- 💻 Interests: Full-Stack Development, Machine Learning, UI/UX Design, Web Development
+- 💻 Interests: Full-Stack Development, UI/UX Design, Machine Learning, Web Development
 - 🌱 Currently Learning: Machine Learning, End-to-End ML Solutions, Data Structures & Algorithms
 - 📫 Reach Me: [Connect on LinkedIn](https://www.linkedin.com/in/vrielle-guevarra/) | [Email Me](vrielleguevarra@gmail.com)
 
